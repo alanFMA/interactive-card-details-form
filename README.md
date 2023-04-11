@@ -5,7 +5,7 @@ Esse projeto consome dados de uma APIRESTful para exibir posts de um blog que, a
 
 ## 📁 Acesso ao projeto
 Você pode acessar os arquivos do projeto clicando [aqui](https://github.com/alanFMA/interactive-card-details-form). <br /><br />
-Você pode também acessar a aplicação no [netlify](https://interactive-card-details-alan.netlify.app/)
+Você pode também acessar a aplicação no [netlify](https://interactive-card-details-mtd.netlify.app/)
 
 ## ✔️ Técnicas e tecnologias utilizadas
 

@@ -13,7 +13,7 @@ Você pode também acessar a aplicação no [netlify](https://interactive-card-d
 
 - ``HTML``
 - ``CSS``
--``Javascript``
+- ``Javascript``
 - ``React``
 
 ## 📋 Pré-requisitos

@@ -1,0 +1,43 @@
+:root {
+	--Lineargradient: hsl(249, 99%, 64%) to hsl(278, 94%, 30%);
+	--Red: hsl(0, 100%, 66%);
+	--White: hsl(0, 0%, 100%);
+	--Lighgrayishviolet: hsl(270, 3%, 87%);
+	--Dargrayisviolet: hsl(279, 6%, 55%);
+	--Verdarviolet: hsl(278, 68%, 11%);
+}
+
+body {
+	font-family: 'Space Grotesk', sans-serif;
+	background: var(--White);
+}
+
+body::after {
+	position: absolute;
+	content: '';
+	background-image: url('../assets/images/bg-main-desktop.png');
+	background-size: cover;
+	width: 33.5%;
+	height: 100vh;
+	top: 0;
+	left: 0;
+	z-index: -1;
+}
+
+#root {
+	display: flex;
+	align-items: center;
+  margin-top: 3rem;
+}
+
+@media screen and (max-width: 750px) {
+	#root {
+		flex-direction: column;
+	}
+
+	body::after {
+		background-image: url('../assets/images/bg-main-mobile.png');
+		width: 110%;
+		height: 40%;
+	}
+}

@@ -1,7 +1,7 @@
 # CHALLENGE FRONTEND MENTOR - TESTE DEV JUNIOR MTD
 
 ## 📋 Descrição
-Esse projeto consome dados de uma APIRESTful para exibir posts de um blog que, ao clicar em um post, exibe os comentários associados, viabilizando também o acesso ao perfil do autor do post com todas as postagens de sua conta no blog.
+Este projeto tem por objetivo a renderização de uma tela de cartão de crédito, com validações no formulário e responsividade.
 
 ## 📁 Acesso ao projeto
 Você pode acessar os arquivos do projeto clicando [aqui](https://github.com/alanFMA/interactive-card-details-form). <br /><br />
